@@ -56,7 +56,7 @@ class ProfitFinder
         total_profit = 0
         stock_prices.each_with_index do |price, index|
             if purchased
-                if price > purchased
+                if price > purchased && (stock_prices[index + 1] == nil || price > stock_prices[index + 1])
                     total_profit += price - purchased
                     purchased = nil
                 end
