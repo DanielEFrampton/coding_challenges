@@ -1,0 +1,3 @@
+# Coding Challenges
+
+This repository acts as a record of the various coding challenges I've encountered and my solutions. Each folder will contain a `readme.md` file with the original prompt and link to its source, if known. If you encounter a coding challenge that lacks a source citation and you'd like to provide one, please comment on that file or make a pull request providing your proposed citation. Thank you!
