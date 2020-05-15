@@ -1,4 +1,4 @@
-source: Ian Douglas (https://iandouglas.com/)
+source: Ian Douglas (https://techinterview.guide/)
 
 # Dungeon Map Generator
 
